@@ -41,5 +41,6 @@
 		-> ASCII art (WELCOME_LOGO) from https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 
 		-> ASCII art (DETECTIVE_LOGO) from https://ascii.co.uk/art/detective
 
-<< Kantaphat Phaphui >>
-# Detective-Simulator
+- GitHub Link : https://github.com/SmileyFaceZ/Detective-Simulator
+
+<< Kantaphat 6510545268 >>
