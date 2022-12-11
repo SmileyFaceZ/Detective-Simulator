@@ -43,4 +43,6 @@
 
 - GitHub Link : https://github.com/SmileyFaceZ/Detective-Simulator
 
+- Youtube Link : https://youtu.be/pGeOGVt3qsE
+
 << Kantaphat 6510545268 >>
