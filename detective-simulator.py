@@ -4,7 +4,13 @@ from resume import Resume
 from hints import Hints
 import subprocess
 
-
+"""
+    ***** ❗Please run interminal ❗️ ******
+    
+    copy -> : python detective-simulator.py
+    (if Error copy -> : python3 detective-simulator.py)
+    
+"""
 QUIT_GAME = ''
 print(WELCOME_LOGO)
 while True:
